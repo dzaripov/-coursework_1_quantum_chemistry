@@ -1,0 +1,54 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        Solvation_Details
+   comment:     Details concerning solvation
+   geom. index: 1
+   prop. index: 1
+     Epsilon:               80.4000000000
+     Refrac:                 1.3300000000
+     RSolv:                  1.3000000000
+     Surface Type:      0
+     Number of Points:  60
+     Surface Area:         188.5885513544
+     Dielectric Energy:     -0.1256570867
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -460.0538330334
+------------------------ !PROPERTY! -------------------------
+   name:        VdW_Correction
+   comment:     The Van der Waals Correction
+   geom. index: 1
+   prop. index: 1
+        Van der Waals Correction:        0.0000000000
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : Cl.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000010
+        Electronic Contribution:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.000000   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.000000  -0.000000  -0.000000
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    1        Geometry Index:    1
+    Coordinates:
+            Cl     0.000000000000    0.000000000000    0.000000000000
