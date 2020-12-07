@@ -1,0 +1,9 @@
+! PBE0 Grid4 D3BJ TightSCF PAL3
+! def2-TZVP  
+
+%tddft nroots 3
+end
+
+* xyz 0 1
+--------------
+*
